@@ -1,0 +1,10 @@
+==== src Codevolution youtube channel ====
+
+1. Create react application
+2. Create Actions
+3. Create Reducer
+4. Create redux store
+    use store in app js with provider
+    connect component with redux
+    create map state to prop
+    create map dispatch to prop
